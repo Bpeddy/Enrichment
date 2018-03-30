@@ -2,3 +2,4 @@ bananas
 apple
 orange
 blackberries
+watermelon
