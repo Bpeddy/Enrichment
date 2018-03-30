@@ -2,3 +2,5 @@ bananas
 apple
 orange
 nuts
+blackberries
+watermelon
